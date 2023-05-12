@@ -1,10 +1,5 @@
 <h1>feles-ao42</h1>
 
-<h3>
-基本的にPrivateリポジトリで開発しています。<br>
-また、公開リポジトリの物は適当に作った物が多いので粗雑なコードが多いですがご理解ください。
-</h3>
-
 <p>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=feles-ao42&count_private=true&show_icons=true&theme=merko" />
